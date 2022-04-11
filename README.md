@@ -10,6 +10,24 @@
 
 ## Purpose:
 Tutorial Work: Teaches React fundamentals to create a tac-tac-toe game that has historic rollback abilities via immutability.
+
+**Sample Tic-Tac-Toe Game Screenshots:**
+
+<table>
+  <tr>
+    <td>
+      <img src="images/ehw-screenshot--tictac-01.jpg" title="Tutorial Work: Intro to React Tic-Tac-Toe (screenshot 1)" alt="Tutorial Work: Intro to React Tic-Tac-Toe (screenshot 1)">
+    </td>
+    <td>
+      <img src="images/ehw-screenshot--tictac-02.jpg" title="Tutorial Work: Intro to React Tic-Tac-Toe (screenshot 1)" alt="Tutorial Work: Intro to React Tic-Tac-Toe (screenshot 2)">
+    </td>
+    
+  </tr>
+  <tr>
+    <td>Screenshot 1: At 4 moves</td>
+    <td>Screenshot 2: Winner X at 7 moves</td>
+  </tr>
+</table>
     
 ## Usage:
 1. CD to project folder in a shell terminal
