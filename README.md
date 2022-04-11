@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+| INFO PROPERTY    | VALUE                      |
+| ---------------- | -------------------------- |
+| Program Name     | **Tutwrk: Intro to React** |
+| Public File Name | README.md                  |
+| Local File Name  | README.md                  |
+| Date Created     | 04/11/22                   |
+| Date Modified    | --                         |
+| Version          | 1.00                       |
+| Programmer       | Eric Hepperle              |
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Purpose:
+Tutorial: Teaches React fundamentals to create a tac-tac-toe game that has historic rollback abilities via immutability.
+    
+## Usage:
+1. CD to project folder in a shell terminal
+2. Run npm start
+3. Launch http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
+    
+## Sample results: 
+[N/A]
 
-## Available Scripts
+## Requires:
+* A web browser.
+    
+## Demonstrates:
+* JavaScript
+* ReactJS
+* ReactDOM
+* slice()
+* immutable objects
 
-In the project directory, you can run:
+## Based on this tutorial:
+- Title: Tutorial: Intro to React
+- URL: https://reactjs.org/tutorial/tutorial.html
+- Channel: ReactJS.org
 
-### `npm start`
+## TAGS:
+Tic-Tac-Toe, Tutorial, ReactJS, Immutable, Game
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Resources:
+- [Full React code for the final result](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
+- [React "Hello World"](https://reactjs.org/docs/hello-world.html)
+- [React.Component reference](https://reactjs.org/docs/react-component.html)
