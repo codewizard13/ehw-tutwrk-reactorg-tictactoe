@@ -7,11 +7,12 @@
 | Date Modified    | --                         |
 | Version          | 1.00                       |
 | Programmer       | Eric Hepperle              |
+| Techologies | <img align="left" alt="react" title="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> **ReactJS** |
 
 ## Purpose:
 Tutorial Work: Teaches React fundamentals to create a tac-tac-toe game that has historic rollback abilities via immutability.
 
-**Sample Tic-Tac-Toe Game Screenshots:**
+### Sample Tic-Tac-Toe Game Results:
 
 <table>
   <tr>
