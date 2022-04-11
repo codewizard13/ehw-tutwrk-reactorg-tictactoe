@@ -9,7 +9,7 @@
 | Programmer       | Eric Hepperle              |
 
 ## Purpose:
-Tutorial: Teaches React fundamentals to create a tac-tac-toe game that has historic rollback abilities via immutability.
+Tutorial Work: Teaches React fundamentals to create a tac-tac-toe game that has historic rollback abilities via immutability.
     
 ## Usage:
 1. CD to project folder in a shell terminal
@@ -36,6 +36,9 @@ Tutorial: Teaches React fundamentals to create a tac-tac-toe game that has histo
 
 ## TAGS:
 Tic-Tac-Toe, Tutorial, ReactJS, Immutable, Game
+
+## VOCAB:
+- Tutwrk: This is term I use to indicate the work I did when following a tutorial. This term is differentiated from tutorials I may create/author in the future that will be designated with the term "Tutorial".
 
 ## Resources:
 - [Full React code for the final result](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
